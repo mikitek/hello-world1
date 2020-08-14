@@ -1,2 +1,3 @@
-# hello-world1
-just another repository
+      More than ten years IT-related employment including 3 plus years as a Software Developer Privately working for different contracts. Played key role in system development, System implementation and analysis for different private companies. Hands-on Experience leading all stages of system development efforts, including requirements Definition, design, architecture, testing and support. Participating in planning, analyzing & implementing solutions in support of business objectives.
+-	I’m also an experienced Website Developer looking to continue my career within agency side development.
+-	I have excellent design & coding skills, as well as an ability convert client requirements into exciting online applications.
